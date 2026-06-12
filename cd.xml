@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="equips.xsl"?>
+
+<lliga_futbol>
+
+  <equip>
+    <nom>Real Madrid</nom>
+    <entrenador>Carlo Ancelotti</entrenador>
+    <estadi>Santiago Bernabéu</estadi>
+    <capacitat>81044</capacitat>
+    <any_fundacio>1902</any_fundacio>
+  </equip>
+
+  <equip>
+    <nom>FC Barcelona</nom>
+    <entrenador>Hansi Flick</entrenador>
+    <estadi>Spotify Camp Nou</estadi>
+    <capacitat>99354</capacitat>
+    <any_fundacio>1899</any_fundacio>
+  </equip>
+
+  <equip>
+    <nom>Atlético de Madrid</nom>
+    <entrenador>Diego Simeone</entrenador>
+    <estadi>Metropolitano</estadi>
+    <capacitat>70460</capacitat>
+    <any_fundacio>1903</any_fundacio>
+  </equip>
+
+  <equip>
+    <nom>Sevilla FC</nom>
+    <entrenador>Quique Sánchez Flores</entrenador>
+    <estadi>Ramón Sánchez-Pizjuán</estadi>
+    <capacitat>43883</capacitat>
+    <any_fundacio>1890</any_fundacio>
+  </equip>
+
+  <equip>
+    <nom>Real Betis</nom>
+    <entrenador>Manuel Pellegrini</entrenador>
+    <estadi>Benito Villamarín</estadi>
+    <capacitat>60721</capacitat>
+    <any_fundacio>1907</any_fundacio>
+  </equip>
+
+  <equip>
+    <nom>Valencia CF</nom>
+    <entrenador>Rubén Baraja</entrenador>
+    <estadi>Mestalla</estadi>
+    <capacitat>49430</capacitat>
+    <any_fundacio>1919</any_fundacio>
+  </equip>
+
+  <equip>
+    <nom>Real Sociedad</nom>
+    <entrenador>Imanol Alguacil</entrenador>
+    <estadi>Reale Arena</estadi>
+    <capacitat>39500</capacitat>
+    <any_fundacio>1909</any_fundacio>
+  </equip>
+
+  <equip>
+    <nom>Villarreal CF</nom>
+    <entrenador>Marcelino García Toral</entrenador>
+    <estadi>Estadio de la Cerámica</estadi>
+    <capacitat>23500</capacitat>
+    <any_fundacio>1923</any_fundacio>
+  </equip>
+
+  <equip>
+    <nom>Athletic Club</nom>
+    <entrenador>Ernesto Valverde</entrenador>
+    <estadi>San Mamés</estadi>
+    <capacitat>53289</capacitat>
+    <any_fundacio>1898</any_fundacio>
+  </equip>
+
+  <equip>
+    <nom>Getafe CF</nom>
+    <entrenador>José Bordalás</entrenador>
+    <estadi>Coliseum Alfonso Pérez</estadi>
+    <capacitat>17393</capacitat>
+    <any_fundacio>1983</any_fundacio>
+  </equip>
+
+</lliga_futbol>
