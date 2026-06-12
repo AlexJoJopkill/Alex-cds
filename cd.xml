@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transforma.xsl"?>
+
+<CATALOG>
+
+  <EQUIP>
+    <NOM>Real Madrid</NOM>
+    <ENTRENADOR>Carlo Ancelotti</ENTRENADOR>
+    <ESTADI>Santiago Bernabéu</ESTADI>
+    <CAPACITAT>81044</CAPACITAT>
+    <ANY>1902</ANY>
+  </EQUIP>
+
+  <EQUIP>
+    <NOM>FC Barcelona</NOM>
+    <ENTRENADOR>Hansi Flick</ENTRENADOR>
+    <ESTADI>Spotify Camp Nou</ESTADI>
+    <CAPACITAT>99354</CAPACITAT>
+    <ANY>1899</ANY>
+  </EQUIP>
+
+  <EQUIP>
+    <NOM>Atlético de Madrid</NOM>
+    <ENTRENADOR>Diego Simeone</ENTRENADOR>
+    <ESTADI>Metropolitano</ESTADI>
+    <CAPACITAT>70460</CAPACITAT>
+    <ANY>1903</ANY>
+  </EQUIP>
+
+  <EQUIP>
+    <NOM>Sevilla FC</NOM>
+    <ENTRENADOR>Quique Sánchez Flores</ENTRENADOR>
+    <ESTADI>Ramón Sánchez-Pizjuán</ESTADI>
+    <CAPACITAT>43883</CAPACITAT>
+    <ANY>1890</ANY>
+  </EQUIP>
+
+  <EQUIP>
+    <NOM>Real Betis</NOM>
+    <ENTRENADOR>Manuel Pellegrini</ENTRENADOR>
+    <ESTADI>Benito Villamarín</ESTADI>
+    <CAPACITAT>60721</CAPACITAT>
+    <ANY>1907</ANY>
+  </EQUIP>
+
+  <EQUIP>
+    <NOM>Valencia CF</NOM>
+    <ENTRENADOR>Rubén Baraja</ENTRENADOR>
+    <ESTADI>Mestalla</ESTADI>
+    <CAPACITAT>49430</CAPACITAT>
+    <ANY>1919</ANY>
+  </EQUIP>
+
+  <EQUIP>
+    <NOM>Real Sociedad</NOM>
+    <ENTRENADOR>Imanol Alguacil</ENTRENADOR>
+    <ESTADI>Reale Arena</ESTADI>
+    <CAPACITAT>39500</CAPACITAT>
+    <ANY>1909</ANY>
+  </EQUIP>
+
+  <EQUIP>
+    <NOM>Villarreal CF</NOM>
+    <ENTRENADOR>Marcelino García Toral</ENTRENADOR>
+    <ESTADI>Estadio de la Cerámica</ESTADI>
+    <CAPACITAT>23500</CAPACITAT>
+    <ANY>1923</ANY>
+  </EQUIP>
+
+  <EQUIP>
+    <NOM>Athletic Club</NOM>
+    <ENTRENADOR>Ernesto Valverde</ENTRENADOR>
+    <ESTADI>San Mamés</ESTADI>
+    <CAPACITAT>53289</CAPACITAT>
+    <ANY>1898</ANY>
+  </EQUIP>
+
+  <EQUIP>
+    <NOM>Getafe CF</NOM>
+    <ENTRENADOR>José Bordalás</ENTRENADOR>
+    <ESTADI>Coliseum Alfonso Pérez</ESTADI>
+    <CAPACITAT>17393</CAPACITAT>
+    <ANY>1983</ANY>
+  </EQUIP>
+
+</CATALOG>
